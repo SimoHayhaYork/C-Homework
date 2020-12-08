@@ -1,0 +1,6 @@
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\bin\Debug\Home_work_2.5.exe.config
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\bin\Debug\Home_work_2.5.exe
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\bin\Debug\Home_work_2.5.pdb
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\obj\Debug\Home_work_2.5.csproj.CoreCompileInputs.cache
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\obj\Debug\Home_work_2.5.exe
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №2\Homework_2\Home_work_2.5\obj\Debug\Home_work_2.5.pdb
