@@ -1,0 +1,7 @@
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\obj\Debug\homeWorkLesson3.csprojAssemblyReference.cache
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\obj\Debug\homeWorkLesson3.csproj.CoreCompileInputs.cache
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\bin\Debug\homeWorkLesson3.exe.config
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\bin\Debug\homeWorkLesson3.exe
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\bin\Debug\homeWorkLesson3.pdb
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\obj\Debug\homeWorkLesson3.exe
+C:\Users\light\Desktop\C# Первый курс\Домашние задания\Урок №3\homeWorkLesson3\homeWorkLesson3\obj\Debug\homeWorkLesson3.pdb
