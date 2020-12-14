@@ -1,0 +1,6 @@
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\bin\Debug\homeWork4_2.exe.config
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\bin\Debug\homeWork4_2.exe
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\bin\Debug\homeWork4_2.pdb
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\obj\Debug\homeWork4_2.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\obj\Debug\homeWork4_2.exe
+C:\Users\light\source\repos\homeWorkLesson4\homeWork4_2\obj\Debug\homeWork4_2.pdb
