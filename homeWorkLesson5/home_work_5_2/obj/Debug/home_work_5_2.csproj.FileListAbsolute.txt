@@ -1,0 +1,6 @@
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\bin\Debug\home_work_5_2.exe.config
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\bin\Debug\home_work_5_2.exe
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\bin\Debug\home_work_5_2.pdb
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\obj\Debug\home_work_5_2.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\obj\Debug\home_work_5_2.exe
+C:\Users\light\source\repos\home_work_5_1\home_work_5_2\obj\Debug\home_work_5_2.pdb
