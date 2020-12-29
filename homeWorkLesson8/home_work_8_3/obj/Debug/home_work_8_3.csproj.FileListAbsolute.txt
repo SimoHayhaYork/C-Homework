@@ -1,0 +1,7 @@
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\bin\Debug\home_work_8_3.exe.config
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\bin\Debug\home_work_8_3.exe
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\bin\Debug\home_work_8_3.pdb
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\obj\Debug\home_work_8_3.csprojAssemblyReference.cache
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\obj\Debug\home_work_8_3.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\obj\Debug\home_work_8_3.exe
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_3\obj\Debug\home_work_8_3.pdb
