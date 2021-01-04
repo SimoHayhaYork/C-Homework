@@ -1,0 +1,10 @@
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\bin\Debug\home_work_8_2.exe.config
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\bin\Debug\home_work_8_2.exe
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\bin\Debug\home_work_8_2.pdb
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.csprojAssemblyReference.cache
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.Properties.Resources.resources
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.csproj.GenerateResource.cache
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.exe
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\home_work_8_2.pdb
+C:\Users\light\source\repos\homeWorkLesson8\home_work_8_2\obj\Debug\BelieveOrNotBelieve.Form1.resources
